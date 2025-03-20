@@ -16,3 +16,8 @@ h4
 {
   margin: 20px;  
 }
+
+.cloud_image
+{
+  max-height: 100px;
+}
