@@ -40,4 +40,5 @@ h4
 .carousel-item img
 {
   object-fit: cover;
+  width: 300px;
 }
