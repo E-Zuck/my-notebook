@@ -24,5 +24,9 @@ h4
 
 #HarvestCarousel
 {
-  max-width: 250px;
+  width: 200px;
+}
+#HarvestCarousel p 
+{
+  background-color: dimgray;
 }
