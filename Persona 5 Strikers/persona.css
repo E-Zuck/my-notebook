@@ -1,3 +1,9 @@
-.contentBlock {margin: 35;}
+.contentBlock { margin: 35; }
+h3 { margin: 10px; }
 
-h3 {margin: 10px;}
+img { display: inline-block; }
+
+.flexbox_container
+{
+    display: flex;
+}
