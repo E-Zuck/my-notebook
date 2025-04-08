@@ -8,7 +8,7 @@ img { display: inline-block; }
     display: flex;
 }
 
-.persona_icons
+.persona_icon
 {
-    height: 25px;
+    height: 50px;
 }
