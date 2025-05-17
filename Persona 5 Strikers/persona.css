@@ -1,6 +1,11 @@
 .contentBlock { margin: 35; }
 h3 { margin: 10px; }
 
+h6
+{
+    font-style: italic;
+}
+
 .flexbox_container
 {
     display: flex;
