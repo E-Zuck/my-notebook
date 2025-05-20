@@ -11,6 +11,7 @@ header
 {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .flex_container 
@@ -53,4 +54,14 @@ input
 .half_img
 {
     width: 45%;
+}
+.logo
+{
+    width: 200px;
+    object-fit: contain;
+}
+.icon
+{
+    width: 35px;
+    object-fit: contain;
 }
