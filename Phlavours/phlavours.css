@@ -4,6 +4,9 @@ body
   background-color: #eebff4;
   color: #5c3162;
 }
+
+/* Flexboxes */
+
 header 
 {
   display: flex;
@@ -23,6 +26,8 @@ header
   gap: 15px;
 }
 
+/*  */
+
 .underline 
 {
   text-decoration: underline;
@@ -34,9 +39,18 @@ header
   color: white;
   margin: -20px;
 }
-
 input
 {
   border-radius: 12px;
   padding: 5px;
+}
+
+.full_img
+{
+    width: 120%;
+    margin: 0px -75px;
+}
+.half_img
+{
+    width: 45%;
 }
