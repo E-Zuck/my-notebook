@@ -1,0 +1,42 @@
+body 
+{
+  margin: 40px 75px;
+  background-color: #eebff4;
+  color: #5c3162;
+}
+header 
+{
+  display: flex;
+  justify-content: space-between;
+}
+
+.flex_container 
+{
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+
+.nav_bar 
+{
+  display: flex;
+  gap: 15px;
+}
+
+.underline 
+{
+  text-decoration: underline;
+}
+
+.signup_button 
+{
+  background-color: #5c3162;
+  color: white;
+  margin: -20px;
+}
+
+input
+{
+  border-radius: 12px;
+  padding: 5px;
+}
